@@ -1,17 +1,3 @@
-<!--
-**haawwkeye/haawwkeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h2 align="center"> 💻 GitHub Profile Stats 💻 </h2>
 <br/>
@@ -24,8 +10,3 @@ Here are some ideas to get you started:
     </a>
 </p>
 <br/>
-<!-- <h2 align="center">📈 Activity Graph 📈</h2>
-<a href="">
-<!--      Removed for now (too lazy to deal with)-- >
-<!--     <img src="https://activity-graph.herokuapp.com/graph?username=ThorpeDevs&theme=react-dark&hide_border=true&area=true&hide_title=true" /> -- >
-</a> -->
